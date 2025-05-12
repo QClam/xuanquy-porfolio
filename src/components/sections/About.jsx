@@ -27,9 +27,14 @@ export const About = () => {
           <div className="rounded-xl p-8 border border-white/10 hover:-translate-y-1 transition-all hover:shadow-lg hover:border-blue-500/30 bg-white/5">
             <p className="text-gray-300 mb-6">
               Là một lập trình viên trẻ tuổi đam mê muốn học hỏi và phát triển
-              bản thân, tôi đã có 1 năm kinh nghiệm làm việc với ReactJS và
-              NodeJS.
+              bản thân, tôi mong muốn được cống hiến và có thể đóng góp bản thân cho công ty.
             </p>
+            <ul className="list-disc list-inside text-gray-300 mb-6 space-y-2">
+              <li>Sẵn sàng học hỏi công nghệ mới để đáp ứng nhu cầu công việc.</li>
+              <li>Chủ động chia sẻ kiến thức, hỗ trợ đồng nghiệp cùng phát triển.</li>
+              <li>Luôn nỗ lực hoàn thành tốt nhiệm vụ được giao.</li>
+              <li>Cam kết làm việc trách nhiệm, trung thực và hợp tác vì mục tiêu chung của công ty.</li>
+            </ul>
 
             <div className="flex justify-center items-center">
               <div className="rounded-xl p-6 transition-all hover:-translate-y-1">

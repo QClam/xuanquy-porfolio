@@ -14,7 +14,7 @@ export const Home = () => {
           </h1>
 
           <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            Với 1 năm trong nghề lập trình, tôi mong muốn ứng tuyển vào vị trí
+            Với kinh nghiệm được trau dồi từ môi trường đại học, tôi mong muốn ứng tuyển vào vị trí
             Fresher của Công ty để có thể áp dụng những kiến thức, kinh nghiệm
             lập trình của bản thân để nâng cấp sản phẩm và mang lại những giá
             trị hữu ích cho doanh nghiệp. Đồng thời, mục tiêu phát triển trong
